@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">moneyexchange</string>
+
+    <string name="cbr_url">https://www.cbr-xml-daily.ru/daily_json.js</string>
+
+    <string name="textButtonConverted">Конвертация</string>
+    <string name="convertAmountHelper">Ввести сумму в рублях для конвертации</string>
+    <string name="convertAmountExample">0.00</string>
+    <string name="convertResultHelper">Результат конвертации:</string>
+    <string name="buttonUpdate">Обновить</string>
+</resources>
